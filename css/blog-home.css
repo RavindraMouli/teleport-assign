@@ -1,0 +1,89 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400);
+body {
+  padding-top: 56px;
+}
+.fixed-top{
+ background-color: #2f6091 !important;
+ height: 40px;
+}
+.social{
+     color:  #FFFFFF;
+    margin: 10px;
+   padding: 0.5em;
+    font-size: 0.5rem;
+  
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+    margin: 10px;
+   padding: 0.5em;
+  font-size: 5rem;  
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #3B5998;
+  color: white;
+    margin: 10px;
+   padding: 0.5em;
+  font-size: 5rem;  
+}
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+    
+}
+.fa-rss {
+  background: #3B5998;
+  color: white;
+    margin: 10px;
+   padding: 0.5em;
+  font-size: 5rem;
+}
+.fa-google {
+  background: #2f6091;
+  color: white;
+  margin: 10px;
+   padding: 0.5em;
+  font-size: 5rem;
+}
+.second-header{
+  background-color: #6f93b8 !important;
+ height: 80px;
+ padding-top: 10px;
+ color: #ffffff;
+}
+header{
+  background-color: #6f93b8 ;
+  margin-top: -17px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+}
+.text-eplise{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 500px;
+}
